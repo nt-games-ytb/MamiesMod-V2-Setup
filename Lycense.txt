@@ -1,0 +1,472 @@
+[ENGLISH]
+
+Please read this license carefully before downloading this software.
+By downloading or using this software, you agree to be bound by
+the terms of this license. If you do not accept or cannot accept the conditions
+of this license, please do not download or use the software.
+
+1. General; Definitions. This license applies to any program or other
+work that nt games Compagny, Inc. ("MamiesMod V2") makes available to the public and
+which contains a notice placed by MamiesMod V2 identifying such a program or
+work as "Code of origin" and specifying that it is subject to the terms of
+this MamiesMod V2 Public Source License version 2.0 ("License"). As used in
+this license:
+
+1.1 "Applicable patent rights" means: (a) in the case where MamiesMod V2 is
+assignor of rights, (i) patent claims that are currently or subsequently
+acquired, owned or attributed to MamiesMod V2 and (ii) which cover the subject
+matter contained in the Code of origin, but only in the
+necessary to use, reproduce or distribute the original code
+without counterfeiting; and (b) in the event that you are the licensor of
+rights, (i) patent claims that are currently or subsequently acquired,
+which belong to you or which are attributed to you and (ii) which cover a subject
+Modifications, taken alone or in combination with the original code.
+
+1.2 "Contributor" means any person or entity that creates or
+contributes to the creation of the Modifications.
+
+1.3 "Covered Code" means the Original Code, the Modifications, the
+combination of original code and any changes, and / or
+their respective portions.
+
+1.4 "Deploy externally" means: (a) sublicense, distribute or
+otherwise make the Covered Code available, directly or indirectly,
+anyone other than you; and / or (b) use the Covered Code, alone or as
+part of a larger work, in any way to provide a service,
+not limited to content delivery, via electronic communication
+with a client other than you.
+
+1.5 "Larger work" means a work that combines covered code or portions
+this one with a code not governed by the terms of this license.
+
+1.6 "Modifications" means any addition, deletion and / or change
+the substance and / or structure of the original code, any previous
+Modifications, combination of the original code and any previous code
+Modifications and / or their respective parts. When the code is
+published as a series of files, a modification is: (a) any addition to
+or deleting the contents of a file containing the code covered;
+and / or (b) any new file or other representation of computer program
+statements containing part of the Covered Code.
+
+1.7 "Origin code" means (a) the source code of a program or other
+the work initially made available by MamiesMod V2 under this license,
+including source code for any updates or upgrades to these programs
+or works made available by MamiesMod V2 under this license, and which have been
+expressly identified by MamiesMod V2 as such in the header file (s) of these
+job; and (b) the object code compiled from this source code and
+initially made available by MamiesMod V2 under this license.
+
+1.8 "Source code" means the human-readable form of a program or other
+work likely to modify it, including all
+modules it contains, as well as all associated interface definition files,
+scripts used to control the compilation and installation of an executable
+(object code).
+
+1.9 "You" or "Your" means a natural or legal person exercising
+rights under this license. For legal persons, "you" or "your"
+includes any entity that controls, is controlled by, or is under
+joint control with You, where "control" means (a) direct power
+or indirect, to cause the direction or the management of this entity,
+whether by contract or otherwise, or (b) fifty percent ownership
+(50%) or more of the outstanding shares or beneficial ownership of
+such an entity.
+
+2. Authorized uses; Conditions and restrictions. Subject to conditions
+and conditions of this license, MamiesMod V2 hereby grants you, from
+the date you accept this license and download the original code, a
+worldwide license, free of rights and not exclusive, to the extent of
+Applicable patent rights and copyrights of MamiesMod V2 covering the original
+Code, to do the following:
+
+2.1 Unchanged code. You may not use, reproduce, display, perform,
+distribute internally within your organization and deploy externally
+verbatim, unmodified copies of the original code, for commercial or
+for non-commercial purposes.
+
+2.2 Modified code. You may not modify the Covered Code and use, reproduce,
+display, execute, distribute internally within your organization, and
+Deploy your changes and your covered code externally for commercial purposes
+or for non-commercial purposes.
+
+2.3 Distribution of executable versions. In addition, if you
+Deploy the software externally, executable form only, you must include a
+notice, in the code itself as well as in the related documentation,
+indicating that the software is available under the
+terms of this license with information on how and where to obtain these
+Source code.
+
+2.4 Rights of third parties. MamiesMod V2 and each contributor decline all
+liability to you for claims made by any other entity
+violation of intellectual or other property rights. Like a
+condition for the exercise of the rights and licenses granted hereunder, You
+hereby assume full responsibility for securing any other
+property rights required, if applicable. For example, if a third party patent
+a license is required to allow You to distribute the Covered Code, it is
+Your responsibility to acquire this license before distributing the software.
+
+3. Your grants. In consideration and as a condition to
+licenses granted to you under this license, you hereby grant to
+person or entity receiving or distributing the software under this
+Grant a non-exclusive, royalty-free, perpetual and irrevocable license,
+under your applicable patent rights and any other intellectual property
+rights (other than patents) owned or controlled by You to use,
+reproduce, display, perform, modify, sublicense, distribute and
+Deploy your changes externally with the same scope and scope as
+MamiesMod V2 licenses under sections 2.1 and 2.2 above.
+
+4. License versions. MamiesMod V2 may publish revised and / or new versions
+versions of this license from time to time. Each version will be given
+a distinctive version number. Once the original code is published
+under a particular version of this license, you can continue to use it
+according to the terms of this version.
+License published by MamiesMod V2. No one other than MamiesMod V2 has the right to
+modify the conditions applicable to the Covered Code created within the framework of this
+Licence.
+
+5. NO WARRANTY OR SUPPORT. The Covered Code may contain in whole or in
+pre-release part, work not tested or not fully tested.
+The covered code may contain errors which could lead to breakdowns or loss of data, and
+may be incomplete or contain inaccuracies. You expressly acknowledge
+and agree that the use of the Covered Code, or a part thereof, is to
+Your only risk. THE COVERED CODE IS PROVIDED "AS IS" AND
+WITHOUT WARRANTY, UPGRADES OR SUPPORT OF ANY KIND, AND GRANNIES V2 AND
+LICENSER (S) OF MamiesMod V2 (COLLECTIVELY DESIGNATED AS "MamiesMod V2" FOR THE
+OBJECTIVES OF ARTICLES 5 AND 6) AND ALL THE CONTRIBUTORS EXPRESSLY DISCLAIMER
+ALL WARRANTIES AND / OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO, IMPLIED WARRANTIES AND / OR CONDITIONS OF
+MARKET QUALITY, SATISFACTORY QUALITY, SUITABILITY FOR A PARTICULAR
+PURPOSE, ACCURACY, CALM ENJOYMENT AND NON-VIOLATION OF THIRD PARTIES
+RIGHTS OF THE PARTIES. MamiesMod V2 AND EACH CONTRIBUTOR DOES NOT GUARANTEE
+INTERFERENCE WITH YOUR APPRECIATION OF THE COVERED CODE, THAT THE
+THE FUNCTIONS CONTAINED IN THE COVERED CODE WILL MEET YOUR NEEDS,
+THAT THE OPERATION OF THE COVERED CODE WILL BE UNINTERRUPTED OR
+ERROR-FREE OR THAT DEFECTS IN THE COVERED CODE WILL BE CORRECTED. NO
+ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY MamiesMod V2,
+AN AUTHORIZED REPRESENTATIVE OR ANY CONTRIBUTOR WILL CREATE A WARRANTY.
+
+6. LIMITATION OF LIABILITY. TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL
+THE EVENT MUST BE RESPONSIBLE FOR MamiesMod V2 OR ANY CONTRIBUTOR FOR ANY INCIDENCE,
+SPECIAL, CONSEQUENTIAL OR CONSEQUENTIAL DAMAGES ARISING FROM OR RELATIVE
+TO THIS LICENSE OR YOUR USE OR INABILITY TO USE THE COVERED CODE, OR
+ANY PART OF IT, UNDER A CONTRACT THEORY, GUARANTEE,
+TORT (INCLUDING NEGLIGENCE), RESPONSIBILITY FOR THE PRODUCT OR OTHERWISE, EVEN IF
+MamiesMod V2 OR SUCH A CONTRIBUTOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGE AND NONOBSTANT FAILURE OF THE ESSENTIAL OBJECTIVE OF ANY REMEDY.
+SOME JURISDICTIONS DO NOT ALLOW LIMITATION OF LIABILITY
+INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS LIMITATION MAY NOT APPLY TO YOU.
+In no case, the total responsibility of MamiesMod V2 towards you for all
+damage (other than that which may be required by applicable law) under this
+The license exceeds the amount of one hundred dollars ($ 100.00).
+
+7. Trademarks. This license does not grant any right to use the
+the brands or trade names "MamiesMod V2", "MamiesMod V2 Compagny" or any other brand,
+service marks, logos or trade names belonging to MamiesMod V2 (collectively
+"MamiesMod V2 Brands") or any trademark, service mark, logo or trade name
+belonging to any contributor. You agree not to use MamiesMod V2 brands in
+or as part of the name of products derived from the original code or
+approve or promote products derived from the code of origin
+that which is expressly authorized by and in strict accordance at all times
+with the guidelines for the use of third-party brands of MamiesMod V2 which are published
+at https://toronico07.wixsite.com/nt-games-ytb-site.
+
+8. Termination.
+
+8.1 Termination. This license and the rights granted hereunder
+end:
+
+(a) automatically without notice from MamiesMod V2 if you do not comply
+any term of this license and fail to remedy such violation within 30
+days of becoming aware of such a violation;
+
+(b) immediately in the circumstances described in section
+9.5 (b); or
+
+(c) automatically and without notice from MamiesMod V2 if you, at any time during
+the duration of this license, bring an action for patent infringement
+against MamiesMod V2; provided that MamiesMod V2 has not started
+a patent infringement action against you in this case.
+
+8.2 Effect of termination. In the event of termination, you agree to
+stop all use, reproduction, modification, sublicense and
+distribution of the Covered Code. All sublicenses of the covered code
+that have been properly granted before termination will survive
+any termination of this license. Provisions which, by their nature,
+should remain in effect beyond the termination of this license
+survive, including, but not limited to, Sections 3, 4, 5, 6, 7, 8 and 9.
+No party will be liable to any other for compensation,
+indemnity or damages of any kind resulting solely from termination
+this license in accordance with its terms and the termination of this
+The license will be without prejudice to any other right or remedy of
+any part.
+
+9. Miscellaneous.
+
+9.1 Relationship between the parties. This license will not be interpreted as
+create an agency, partnership, joint venture or any other form of
+legal association between or among You, MamiesMod V2 or any Contributor, and
+You will not represent the contrary, either expressly, by
+implication, appearance or otherwise.
+
+9.2 Severability. a) If, for any reason, a competent court
+the court finds any provision of this license, or a part thereof,
+be inapplicable, this provision of the License will be applied to
+the maximum extent permitted to realize the economic benefits
+and the intention of the parties, and the rest of this license will be
+continue in effect. b) Notwithstanding the above,
+if applicable law prohibits or prevents you from fully and / or
+specifically respecting sections 2 and / or 3 or preventing the
+the applicability of any of these sections, this license
+end immediately and you must immediately stop all use
+software and destroy all copies in your
+possession or control.
+
+9.3 Entire agreement; Applicable law. This license constitutes the
+complete agreement between the parties on the subject
+matter here.
+
+
+This high school was written Apple Computer and modified by nt games.
+
+
+
+THE GOAL OF MAMIESMOD V2:
+MamiesMod V2 was created to modify the game Minecraft Wii U and Minecraft PS3.
+It was created to be a cheat in 6 different languages.
+It was also designed to gather all the cheat / codes existing to date and so that everything is free.
+
+
+[FRENCH]
+
+Veuillez lire attentivement cette licence avant de télécharger ce logiciel.
+En téléchargeant ou en utilisant ce logiciel, vous acceptez d'être lié par
+les termes de cette licence. Si vous n'acceptez pas ou ne pouvez pas accepter les conditions
+de cette licence, veuillez ne pas télécharger ou utiliser le logiciel.
+
+1. Général; Définitions. Cette licence s'applique à tout programme ou autre
+travaux que nt games Compagny, Inc. ("MamiesMod V2") met à la disposition du public et
+qui contient un avis placé par MamiesMod V2 identifiant un tel programme ou
+travailler comme "Code d'origine" et en précisant qu'il est soumis aux termes de
+cette MamiesMod V2 Public Source License version 2.0 ("Licence"). Tel qu'utilisé dans
+cette licence:
+
+1.1 "Droits de brevet applicables" signifie: (a) dans le cas où MamiesMod V2 est
+le cédant de droits, (i) les revendications de brevets qui sont actuellement ou ultérieurement
+acquis, détenu ou attribué à MamiesMod V2 et (ii) qui couvrent le sujet
+matière contenue dans le Code d'origine, mais uniquement dans la
+nécessaire pour utiliser, reproduire ou distribuer le code original
+sans contrefaçon; et (b) dans le cas où vous êtes le concédant de
+les droits, (i) les revendications de brevets qui sont actuellement ou ultérieurement acquis,
+qui vous appartiennent ou qui vous sont attribués et (ii) qui couvrent un sujet
+Modifications, prises seules ou en combinaison avec le code d'origine.
+
+1.2 «Contributeur» désigne toute personne ou entité qui crée ou
+contribue à la création des Modifications.
+
+1.3 "Code couvert" désigne le Code d'origine, les Modifications, le
+combinaison du code d'origine et de toute modification, et / ou
+leurs portions respectives.
+
+1.4 «Déployer en externe» signifie: (a) sous-licencier, distribuer ou
+autrement mettre le Code couvert à la disposition, directement ou indirectement,
+toute personne autre que vous; et / ou (b) d'utiliser le Code couvert, seul ou en tant que
+partie d'une œuvre plus importante, de quelque manière que ce soit pour fournir un service,
+non limité à la livraison de contenu, via la communication électronique
+avec un client autre que vous.
+
+1.5 «Œuvre plus grande» désigne une œuvre qui combine du code couvert ou des portions
+celui-ci avec un code non régi par les termes de cette licence.
+
+1.6 "Modifications" signifie tout ajout, suppression et / ou changement
+la substance et / ou la structure du code d'origine, toute précédente
+Modifications, combinaison du code d'origine et de tout code antérieur
+Modifications et / ou leurs parties respectives. Lorsque le code est
+publié sous forme de série de fichiers, une modification est: (a) tout ajout à
+ou la suppression du contenu d'un fichier contenant le code couvert;
+et / ou (b) tout nouveau fichier ou autre représentation de programme informatique
+déclarations contenant une partie du Code couvert.
+
+1.7 "Code d'origine" signifie (a) le code source d'un programme ou autre
+le travail initialement mis à disposition par MamiesMod V2 sous cette licence,
+y compris le code source de toute mise à jour ou mise à niveau de ces programmes
+ou des œuvres mises à disposition par MamiesMod V2 sous cette licence, et qui ont été
+expressément identifiées par MamiesMod V2 comme telles dans le (s) fichier (s) d'en-tête de ces
+travail; et (b) le code objet compilé à partir de ce code source et
+initialement mis à disposition par MamiesMod V2 sous cette licence.
+
+1.8 «Code source» désigne la forme lisible par l'homme d'un programme ou autre
+les travaux susceptibles d'y apporter des modifications, y compris tous
+modules qu'il contient, ainsi que tous les fichiers de définition d'interface associés,
+scripts utilisés pour contrôler la compilation et l'installation d'un exécutable
+(code objet).
+
+1.9 «Vous» ou «Votre» désigne une personne physique ou morale exerçant
+droits en vertu de cette licence. Pour les personnes morales, «vous» ou «votre»
+comprend toute entité qui contrôle, est contrôlée par, ou est sous
+contrôle commun avec Vous, où "contrôle" signifie (a) le pouvoir, direct
+ou indirect, pour provoquer la direction ou la gestion de cette entité,
+que ce soit par contrat ou autrement, ou (b) la propriété de cinquante pour cent
+(50%) ou plus des actions en circulation ou de la propriété effective de
+une telle entité.
+
+2. Utilisations autorisées; Conditions et restrictions. Sous réserve des conditions
+et conditions de cette licence, MamiesMod V2 vous accorde par la présente, à compter du
+la date à laquelle vous acceptez cette licence et téléchargez le code d'origine, un
+licence mondiale, libre de droits et non exclusive, dans la mesure du
+Les droits de brevet applicables et les droits d'auteur de MamiesMod V2 couvrant l'original
+Code, pour effectuer les opérations suivantes:
+
+2.1 Code non modifié. Vous ne pouvez pas l'utiliser, reproduire, afficher, exécuter,
+distribuer en interne au sein de votre organisation et déployer en externe
+verbatim, des copies non modifiées du code original, à des fins commerciales ou
+à des fins non commerciales.
+
+2.2 Code modifié. Vous pouvez pas modifier le Code couvert et utiliser, reproduire,
+afficher, exécuter, distribuer en interne au sein de votre organisation, et
+Déployez en externe vos modifications et votre code couvert, à des fins commerciales
+ou à des fins non commerciales.
+
+2.3 Distribution des versions exécutables. De plus, si vous
+Déployer en externe le logiciel, formulaire exécutable uniquement, vous devez inclure un
+remarquer, dans le code lui-même ainsi que dans la documentation connexe,
+indiquant que le logiciel est disponible sous le
+termes de cette licence avec des informations sur comment et où obtenir ces
+Code source.
+
+2.4 Droits des tiers. MamiesMod V2 et chaque contributeur déclinent toute
+responsabilité envers vous pour les réclamations introduites par toute autre entité
+violation des droits de propriété intellectuelle ou autre. Comme un
+condition à l'exercice des droits et licences accordés en vertu des présentes, Vous
+par les présentes assumer l'entière responsabilité de sécuriser tout autre
+droits de propriété nécessaires, le cas échéant. Par exemple, si un brevet de tiers
+une licence est requise pour Vous permettre de distribuer le Code couvert, il est
+Votre responsabilité d'acquérir cette licence avant de distribuer le logiciel.
+
+3. Vos subventions. En considération et comme condition à la
+licences qui vous sont accordées en vertu de cette licence, vous accordez par la présente à
+personne ou entité recevant ou distribuant le logiciel en vertu du présent
+Accordez une licence non exclusive, libre de droits, perpétuelle et irrévocable,
+sous vos droits de brevet applicables et toute autre propriété intellectuelle
+les droits (autres que les brevets) détenus ou contrôlés par Vous, d'utiliser,
+reproduire, afficher, exécuter, modifier, sous-licencier, distribuer et
+Déployez vos modifications en externe de la même portée et étendue que
+Les licences de MamiesMod V2 en vertu des sections 2.1 et 2.2 ci-dessus.
+
+4. Versions de la licence. MamiesMod V2 peut publier des versions révisées et / ou nouvelles
+versions de cette licence de temps en temps. Chaque version sera donnée
+un numéro de version distinctif. Une fois le code original publié
+sous une version particulière de cette licence, vous pouvez continuer à l'utiliser
+selon les termes de cette version.
+Licence publiée par MamiesMod V2. Personne d'autre que MamiesMod V2 n'a le droit de
+modifier les conditions applicables au Code couvert créé dans le cadre du présent
+Licence.
+
+5. AUCUNE GARANTIE OU SUPPORT. Le Code couvert peut contenir en totalité ou en
+partie pré-version, travaux non testés ou non entièrement testés.
+Le code couvert peut contenir des erreurs pouvant entraîner des pannes ou des pertes de données, et
+peut être incomplet ou contenir des inexactitudes. Vous reconnaissez expressément
+et convenez que l'utilisation du Code couvert, ou d'une partie de celui-ci, est à
+Votre seul et entier risque. LE CODE COUVERT EST FOURNI «TEL QUEL» ET
+SANS GARANTIE, MISES À NIVEAU OU SUPPORT DE QUELQUE NATURE QUE CE SOIT ET MamiesMod V2 ET
+CONCÉDANT (S) DE LICENCE (S) DE MamiesMod V2 (DÉSIGNÉ COLLECTIVEMENT COMME "MamiesMod V2" POUR LE
+OBJECTIFS DES ARTICLES 5 ET 6) ET TOUS LES CONTRIBUTEURS DÉCLINENT EXPRESSÉMENT
+TOUTES LES GARANTIES ET / OU CONDITIONS, EXPRESSES OU IMPLICITES, Y COMPRIS, MAIS
+NON LIMITÉ À, LES GARANTIES ET / OU CONDITIONS IMPLICITES DE
+QUALITÉ MARCHANDE, DE QUALITÉ SATISFAISANTE, D'ADÉQUATION À UNE PARTICULIERE
+BUT, D'EXACTITUDE, DE JOUISSANCE CALME ET DE NON-VIOLATION DE TIERS
+DROITS DES PARTIES. MamiesMod V2 ET CHAQUE CONTRIBUTEUR NE GARANTIT PAS
+INTERFÉRENCE AVEC VOTRE APPRÉCIATION DU CODE COUVERT, QUE LE
+LES FONCTIONS CONTENUES DANS LE CODE COUVERT RÉPONDRONT À VOS BESOINS,
+QUE LE FONCTIONNEMENT DU CODE COUVERT SERA ININTERROMPU OU
+SANS ERREUR OU QUE LES DÉFAUTS DU CODE COUVERT SERONT CORRIGÉS. NON
+INFORMATIONS OU CONSEILS ORAUX OU ÉCRITS DONNÉS PAR MamiesMod V2,
+UN REPRÉSENTANT AUTORISÉ OU TOUT CONTRIBUTEUR CRÉERA UNE GARANTIE.
+
+6. LIMITATION DE RESPONSABILITÉ. DANS LA MESURE NON INTERDITE PAR LA LOI, EN AUCUN CAS
+L'ÉVÉNEMENT DOIT ÊTRE RESPONSABLE DE MamiesMod V2 OU DE TOUT CONTRIBUTEUR POUR TOUT INCIDENCE,
+DOMMAGES SPÉCIAUX, INDIRECTS OU CONSÉCUTIFS DÉCOULANT DE OU RELATIFS
+À CETTE LICENCE OU À VOTRE UTILISATION OU À VOTRE INCAPACITÉ D'UTILISER LE CODE COUVERT, OU
+TOUTE PARTIE DE CELLE-CI, SOUS UNE THÉORIE DU CONTRAT, GARANTIE,
+TORT (Y COMPRIS LA NÉGLIGENCE), LA RESPONSABILITÉ DU PRODUIT OU AUTREMENT, MÊME SI
+MamiesMod V2 OU UN TEL CONTRIBUTEUR A ÉTÉ AVISÉ DE LA POSSIBILITÉ DE TEL
+DOMMAGES  ET NONOBSTANT L'ÉCHEC DE L'OBJECTIF ESSENTIEL DE TOUT REMÈDE. 
+CERTAINES JURIDICTIONS NE PERMETTENT PAS LA LIMITATION DE RESPONSABILITÉ
+DOMMAGES ACCESSOIRES OU INDIRECTS, CETTE LIMITATION PEUT DONC NE PAS S'APPLIQUER À TOI. 
+En aucun cas, la responsabilité totale de MamiesMod V2 envers vous pour tous
+dommages (autres que ceux qui peuvent être exigés par la loi applicable) en vertu du présent
+La licence dépasse le montant de cent dollars (100,00 $).
+
+7. Marques déposées. Cette licence n'accorde aucun droit d'utilisation du
+les marques ou noms commerciaux "MamiesMod V2", "MamiesMod V2 Compagny" ou toute autre marque,
+marques de service, logos ou noms commerciaux appartenant à MamiesMod V2 (collectivement
+«Marques MamiesMod V2») ou à toute marque de commerce, marque de service, logo ou nom commercial
+appartenant à tout contributeur. Vous acceptez de ne pas utiliser de marques MamiesMod V2 dans
+ou dans le cadre du nom de produits dérivés du code d'origine ou
+d'approuver ou de promouvoir des produits dérivés du code d'origine
+que ce qui est expressément autorisé par et en stricte conformité à tout moment
+avec les directives d'utilisation des marques tierces de MamiesMod V2 qui sont publiées
+à https://toronico07.wixsite.com/nt-games-ytb-site.
+
+8. Résiliation.
+
+8.1 Résiliation. Cette licence et les droits accordés en vertu de la présente
+mettre fin:
+
+(a) automatiquement sans préavis de MamiesMod V2 si vous ne respectez pas
+tout terme de cette licence et ne parviennent pas à remédier à une telle violation dans les 30
+jours de prise de conscience d'une telle violation;
+
+(b) immédiatement dans le cas des circonstances décrites à la section
+9,5 (b); ou
+
+(c) automatiquement et sans préavis de MamiesMod V2 si vous, à tout moment pendant
+la durée de cette licence, intenter une action en contrefaçon de brevet
+contre MamiesMod V2; à condition que MamiesMod V2 n'ait pas commencé
+une action en contrefaçon de brevet contre vous dans ce cas.
+
+8.2 Effet de la résiliation. En cas de résiliation, vous vous engagez à
+arrêter toute utilisation, reproduction, modification, sous-licence et
+distribution du Code couvert. Toutes les sous-licences du code couvert
+qui ont été correctement accordées avant la résiliation survivront
+toute résiliation de cette licence. Dispositions qui, de par leur nature,
+devrait rester en vigueur au-delà de la résiliation de la présente licence
+survivre, y compris, mais sans s'y limiter, les sections 3, 4, 5, 6, 7, 8 et 9.
+Aucune partie ne sera responsable envers aucune autre de l'indemnisation,
+indemnité ou dommages de toute nature résultant uniquement de la résiliation
+cette licence conformément à ses termes et la résiliation de cette
+La licence sera sans préjudice de tout autre droit ou recours de
+n'importe quelle partie.
+
+9. Divers.
+
+9.1 Relation entre les parties. Cette licence ne sera pas interprétée comme
+créer une agence, un partenariat, une coentreprise ou toute autre forme de
+association légale entre ou parmi Vous, MamiesMod V2 ou tout Contributeur, et
+Vous ne représenterez pas le contraire, que ce soit expressément, par
+implication, apparence ou autre.
+
+9.2 Divisibilité. a) Si, pour une raison quelconque, un tribunal compétent
+la juridiction trouve toute disposition de cette licence, ou une partie de celle-ci,
+être inapplicable, cette disposition de la Licence sera appliquée aux
+l'étendue maximale permise pour réaliser les avantages économiques
+et l'intention des parties, et le reste de cette licence sera
+continuer en vigueur. b) Nonobstant ce qui précède,
+si la loi applicable vous interdit ou vous empêche de pleinement et / ou
+respectant spécifiquement les sections 2 et / ou 3 ou empêchant la
+l’applicabilité de l’une ou l’autre de ces sections, cette licence
+mettre fin immédiatement et vous devez immédiatement cesser toute utilisation
+du logiciel et détruisez toutes les copies qui se trouvent dans votre
+possession ou contrôle.
+
+9.3 Intégralité de l'accord; Loi applicable. Cette licence constitue le
+accord complet entre les parties sur le sujet
+importe ici.
+
+
+Ce lycense a été écrit Apple Computer et modifié par nt games.
+
+
+
+LE BUT DE MAMIESMOD V2 :
+MamiesMod V2 à été crée pour modifier le jeu Minecraft Wii U et Minecraft PS3.
+Il a été crée pour être un cheat sous 6 langages différents.
+Il a aussi été conçu pour rassembler tout les cheat/codes existant à ce jour et pour que tout soit gratuit.
